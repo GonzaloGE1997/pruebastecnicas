@@ -1,22 +1,22 @@
 {
-    "ubicaciones": [
+   "ubicaciones": [
       {
-        "latitude": 40.416875,
-        "longitude": -3.703308,
-        "city": "Ciudad de México",
-        "description": "Paseo de la reforma"
+         "latitude": 40.416874,
+         "longitude": -3.703308,
+         "city": "Ciudad de México",
+         "description": "Paseo de la reforma"
       },
       {
-        "latitude": 40.417438,
-        "longitude": -3.693363,
-        "city": "Monterrey",
-        "description": "Parque Fundidora"
+         "latitude": 40.41744,
+         "longitude": -3.693363,
+         "city": "Monterrey",
+         "description": "Parque Fundidora"
       },
       {
-        "latitude": 40.407015,
-        "longitude": -3.691163,
-        "city": "Guadalajara",
-        "description": "Centro historico"
+         "latitude": 40.407017,
+         "longitude": -3.691163,
+         "city": "Guadalajara",
+         "description": "Centro historico"
       }
-    ]
+   ]
 }
