@@ -1,5 +1,4 @@
 {
-   "ubicaciones": [
       {
          "latitude": 40.416874,
          "longitude": -3.703308,
@@ -18,5 +17,4 @@
          "city": "Guadalajara",
          "description": "Centro historico"
       }
-   ]
 }
